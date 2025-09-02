@@ -1,12 +1,12 @@
 
 
-console.log(polindroma());
+console.log(polidroma());
 
 
 
 // FUNZIONE PER TROVARE LA PAROLA PALINDROMA
 
-function polindroma() {
+function polidroma() {
   // Scelta della parola dall'utente
   const parolaUtente = prompt("Scegli una parola");
 
